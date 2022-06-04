@@ -9,27 +9,27 @@
 
 ### ``Create tables.``
 > Basico sobre a criação de tabelas.
-#### [Acessar.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/create.md')
+#### [Acessar.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/create.md)
 
 ### ``Inserts.`` 
 > Maneiras de executar os INSERTS 
-#### [Acessar]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/inserts.md')
+#### [Acessar](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/inserts.md)
 
 ### ``Agrupamentos``
 > Como agrupar os valores.
-#### [Acessar.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/agrupamentos.md')
+#### [Acessar.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/agrupamentos.md)
 
 ### ``Sub-Consultas``
 > Como realizar sub-consultas com IN, HAVING,Query aninhadas e Passar Query dentro do FROM
-#### [Acessar.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/sub-consultas.md')
+#### [Acessar.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/sub-consultas.md)
 
 ### ``Funções``
 > Como utilizar as funções do PostgreSQL
-#### [Acessar.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/fun%C3%A7%C3%B5es.md')
+#### [Acessar.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/fun%C3%A7%C3%B5es.md)
 
 ### ``VIEWS``
 > Como utilizar as VIEWS
-#### [Acessar.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/views.md') 
+#### [Acessar.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Curso/views.md) 
 
 <br>
 
@@ -40,4 +40,4 @@
 ### ``CASE``
 > Utilização do ``CASE WHEN`` que funciona similar ao **Switch/Case do JavaScript** ou a um **if**. 
 
-#### [Acesse.]('https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Diversos/case.md')
+#### [Acesse.](https://github.com/zThanael/Estudos-SQL/blob/main/Anota%C3%A7%C3%B5es/Diversos/case.md)
